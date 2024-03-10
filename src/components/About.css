@@ -1,0 +1,17 @@
+.about {
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.about-title {
+  font-family: Nunito Sans;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 82px;
+  letter-spacing: 0em;
+  text-align: left;
+}

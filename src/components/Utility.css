@@ -1,0 +1,54 @@
+.roadmap-card {
+  background-color: #2b2d42;
+  min-height: 374px;
+  cursor: pointer;
+}
+
+.roadmap-card-number {
+  font-family: 'Montserrat';
+  font-size: 120px;
+  font-weight: 700;
+  line-height: 80px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.roadmap-card-title {
+  font-family: 'Nunito Sans';
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.roadmap-card-subtitle {
+  font-family: 'Montserrat';
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.utility-card-bg {
+  left: 0;
+  top: 15%;
+  height: 70%;
+  background-color: #2B2D42;
+}
+
+.roadmap-item-title {
+  font-family: 'Nunito Sans';
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.roadmap-item-container {
+  margin: auto 20%;
+}
+
+.roadmap-item-image {
+  width: 715px;
+}

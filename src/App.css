@@ -1,0 +1,44 @@
+* {
+    /* outline: 1px solid red; */
+}
+
+.parent:hover .child {
+    width: 40px;
+}
+
+body {
+    height: 95vh
+}
+
+*:focus {
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+}
+
+.right-panel {
+    width: max-content;
+}
+
+.title {
+    font-family: Nunito Sans;
+    font-size: 160px;
+    font-weight: 700;
+    line-height: 218px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.text {
+    font-family: Montserrat;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.055em;
+    text-align: left;
+}
+
+.card-detail-bg {
+    background-color: #8D99AE;
+}
